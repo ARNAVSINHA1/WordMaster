@@ -1,0 +1,121 @@
+:root {
+    --primary-color: #00bfa6;
+    --secondary-color: #00695c;
+    --background-color: #f0f4f8;
+    --accent-color: #ff5252;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: var(--background-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 40px;
+    width: 60%;
+    border-radius: 20px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    position: relative;
+}
+
+.search-box {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.search-box input {
+    width: 75%;
+    padding: 15px;
+    border-radius: 12px;
+    border: 2px solid var(--primary-color);
+    font-size: 18px;
+}
+
+.search-box button {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 15px;
+    width: 20%;
+    border: none;
+    border-radius: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: transform 0.3s, background-color 0.3s;
+}
+
+.search-box button:hover {
+    background-color: var(--secondary-color);
+    transform: scale(1.05);
+}
+
+.result h3 {
+    font-size: 36px;
+    color: var(--secondary-color);
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.play-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.play-btn svg {
+    width: 30px;
+    height: 30px;
+    stroke: var(--accent-color);
+    transition: transform 0.3s;
+}
+
+.play-btn:hover svg {
+    transform: scale(1.2);
+    stroke: var(--primary-color);
+}
+
+.result .details {
+    text-align: left;
+    margin-top: 15px;
+    line-height: 1.8;
+}
+
+.details h4 {
+    color: var(--secondary-color);
+    margin-bottom: 5px;
+}
+
+.details ul {
+    padding-left: 20px;
+}
+
+.watermark-container {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    width: 100%;
+    background-color: var(--primary-color);
+    padding: 10px 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.watermark {
+    font-size: 12px;
+    color: white;
+    opacity: 1;
+}
