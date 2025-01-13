@@ -6,8 +6,7 @@ WordMaster is an interactive online English dictionary built using HTML, CSS, an
 
 ## Live Demo
 
-Check out the live demo at:  
-[WordMaster Demo](https://arnavsinha1.github.io/WordMaster/)
+Check out the live demo at:  [WordMaster Demo](https://arnavsinha1.github.io/WordMaster/)
 
 ## Features
 
