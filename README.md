@@ -18,7 +18,7 @@ Check out the live demo at:
 
 ## Screenshots
 
-![WordMaster Screenshot](https://via.placeholder.com/800x400)
+![WordMaster Screenshot](screenshot.png)
 
 ## Technologies Used
 
