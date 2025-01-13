@@ -1,6 +1,6 @@
 # WordMaster
 
-[![WordMaster Banner](https://via.placeholder.com/1200x300)](https://arnavsinha1.github.io/WordMaster/)
+[![WordMaster Banner](https://via.placeholder.com/1200x300)]([https://arnavsinha1.github.io/WordMaster/](https://arnavsinha1.github.io/WordMaster/))
 
 WordMaster is an interactive online English dictionary built using HTML, CSS, and JavaScript. It allows users to search for English words and view definitions, pronunciations, and more. The dictionary provides real-time search results with an option to listen to the pronunciation.
 
