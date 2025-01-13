@@ -35,3 +35,47 @@ You can clone the repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/ARNAVSINHA1/WordMaster.git
+```
+
+## Installation
+
+1. Download or clone this repository to your local machine.
+2. Open the `index.html` file in your web browser to start using the dictionary.
+
+## Running Locally
+
+To run the app locally:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/ARNAVSINHA1/WordMaster.git
+    ```
+2. Navigate into the folder:
+    ```bash
+    cd WordMaster
+    ```
+3. Open the `index.html` file in any browser to view the website.
+
+## How to Contribute
+
+Feel free to fork the repository and submit pull requests for any improvements. Here are a few ideas on how you can contribute:
+
+- **Add more features**: For example, support for multiple languages or add more functionalities.
+- **Improve the UI**: Make the design more attractive or improve the responsiveness.
+- **Fix bugs**: If you find any issues or bugs, feel free to open an issue or fix it yourself.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+
+For any questions or feedback, please feel free to reach out to me:
+
+- **Email**: arnava.sinha1@example.com
+- **GitHub**: [@arnavsinha1](https://github.com/arnavsinha1)
+
+---
+
+# Developed by Arnava Kumar Sinha  
+# Copyright © 2025
